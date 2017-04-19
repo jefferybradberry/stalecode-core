@@ -9,7 +9,7 @@
 	<groupId>com.stalecode.java</groupId>
 	<artifactId>com.stalecode.java</artifactId>
 	<name>Stalecode Java Library</name>
-	<description>Convenience library for Java</description>
+	<description>Java convenience library</description>
 	<build>
 		<plugins>
 			<plugin>
